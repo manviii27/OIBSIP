@@ -1,1 +1,1 @@
-These tasks are done by me as a data science intern for Oasis Infobyte.
+These tasks are done by me as a Data Science Intern for Oasis Infobyte.
